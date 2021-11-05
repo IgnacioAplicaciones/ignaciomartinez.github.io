@@ -1,0 +1,20 @@
+ h1{
+                color: rgb(5, 201, 255);
+            }
+            
+            .Eldelfin{
+                background-color:Yellow;
+            }
+            
+            body{
+               background-color: rgb(38, 0, 255);
+
+            }
+            
+            .Caracteristicas{
+                background-color:purple;
+            }
+
+	   p{
+	      color: rgb(255, 0, 17); 
+	  }
